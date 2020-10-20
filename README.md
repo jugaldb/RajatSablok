@@ -9,7 +9,7 @@
 
 Welcome to my profile :innocent:	
 
-I am a backend developer :rocket: and the Vice Chairperson of [CodeChef-VIT](https://https://github.com/codechefvit) :technologist:. Famous for being a mechanical engineer who codes :wink:.
+I am a backend developer :rocket: and the Vice Chairperson of [CodeChef-VIT](https://https://github.com/codechefvit) :technologist:. Famous for being a mechanical engineer who codes :wink:
 
 ### We all know that you came here for these stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajatSablok&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,7 +25,7 @@ Have something cool to share? Connect with me on \
 [![Hackerrank](https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/rajat_main06/)](https://www.hackerrank.com/rajat_main06/)
 [![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/RajatSablok/)](https://www.github.com/RajatSablok/)
 
-Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/RajatSablok/count.svg) people to checkout my profile :heart:
+Also, thanks for being one of the ![VisitorCount](https://profile-counter.glitch.me/RajatSablok/count.svg) visitors to checkout my profile :heart:
 
 ### Adiós!
 <!--
